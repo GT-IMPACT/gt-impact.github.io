@@ -1,6 +1,6 @@
 ### PARALLEL SUPER COMPUTER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParComputer.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParComputer.png)
 
 ##### Description
 
@@ -50,12 +50,12 @@ Max PP — the total amount of PP from the Parallel Processors installed in the 
 
 Setting the frequency for connecting the Computer to the Communication Tower:
 
-![BIG](https://gtimpact.space/media/gregtech/connectTowerComp.gif)
+![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerComp.gif)
 
 Parallel Processors in a Computer Rack:
 
-![SMALL](https://gtimpact.space/media/gregtech/ComputerRackGUI.png)
+![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ComputerRackGUI.png)
 
 Setting up the transmit of PP from the computer to the machine:
 
-![BIG](https://gtimpact.space/media/gregtech/connectMachineComp.gif)
+![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectMachineComp.gif)

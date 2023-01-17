@@ -12,7 +12,7 @@ The miner mines ore in the chunk in which it is located.
 
 ##### Mandatory!
 
-Read in [Mechanics](/wiki/mechanics#oregeneration) section how the generation of minerals is arranged.
+Read in [Mechanics](/mechanics#oregeneration) section how the generation of minerals is arranged.
 
 ##### Machine working
 

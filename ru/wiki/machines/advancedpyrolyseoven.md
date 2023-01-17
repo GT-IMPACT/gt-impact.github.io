@@ -1,6 +1,6 @@
 ### ADVANCED PYROLYSE OVEN
 
-![LOGO](https://gtimpact.space/media/gregtech/AdvPyrolyse.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/AdvPyrolyse.png)
 
 ##### Описание
 

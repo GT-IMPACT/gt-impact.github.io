@@ -66,8 +66,8 @@ In the late game there are manual ore prospectors, which do not require anything
 ##### Ore mining
 
 To mine the ore, you will need miners:
-- Coal Miner: consume coal, mines ore in layer #0 ([check](/wiki/machines#coalminer))
-- Basic Electric Miner: able to mine ore in all layers, has a small bonus when digging ([check](/wiki/machines#basicelectricminer))
-- Advanced Electric Miner: able to mine ore in all layers, has a significant digging bonus, and also contains a flotation module ([check](/wiki/machines#advancedelectricminer))
+- Coal Miner: consume coal, mines ore in layer #0 ([check](/machines#coalminer))
+- Basic Electric Miner: able to mine ore in all layers, has a small bonus when digging ([check](/machines#basicelectricminer))
+- Advanced Electric Miner: able to mine ore in all layers, has a significant digging bonus, and also contains a flotation module ([check](/machines#advancedelectricminer))
 
 ![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928070934580068462/unknown.png)

@@ -1,10 +1,10 @@
 ### FREEZER SOLIDIFIER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParFrezSolid.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFrezSolid.png)
 
 ##### Description
 
-The machine is needed to cool liquid alloys from the Blast Smelter into ingots. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is needed to cool liquid alloys from the Blast Smelter into ingots. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

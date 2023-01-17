@@ -1,10 +1,10 @@
 ### MULTI WIRE FACTORY
 
-![LOGO](https://gtimpact.space/media/gregtech/ParWire.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParWire.png)
 
 ##### Description
 
-The machine is analog to Wiremill and Wire Assembler. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Wiremill and Wire Assembler. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

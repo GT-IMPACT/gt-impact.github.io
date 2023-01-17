@@ -1,6 +1,6 @@
 ### COKE OVEN
 
-![LOGO](https://gtimpact.space/media/gregtech/cokeoven.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/cokeoven.png)
 
 ##### Описание
 

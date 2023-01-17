@@ -1,10 +1,10 @@
 ### MULTI EXTRADIFICATION
 
-![LOGO](https://gtimpact.space/media/gregtech/ParExtraDi.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParExtraDi.png)
 
 ##### Описание
 
-Машина является аналогом Fluid Extractor, Fluid Solidifier и Fluid Heater. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Fluid Extractor, Fluid Solidifier и Fluid Heater. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

@@ -1,10 +1,10 @@
 ### MULTI ELECTROLYZER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParElectr.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParElectr.png)
 
 ##### Описание
 
-Машина является аналогом Multiblock Electrolyzer. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Multiblock Electrolyzer. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

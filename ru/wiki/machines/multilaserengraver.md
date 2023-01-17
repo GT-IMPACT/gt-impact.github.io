@@ -1,10 +1,10 @@
 ### MULTI LASER ENGRAVER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParLaser.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParLaser.png)
 
 ##### Описание
 
-Машина является аналогом Laser Engraver. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Laser Engraver. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

@@ -1,10 +1,10 @@
 ### MULTI SUPPLY PRODUCTION
 
-![LOGO](https://gtimpact.space/media/gregtech/ParSupply.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSupply.png)
 
 ##### Описание
 
-Машина является аналогом Autoclave, Dust Washer, Ore Washing Plant и Chemical Bath. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Autoclave, Dust Washer, Ore Washing Plant и Chemical Bath. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

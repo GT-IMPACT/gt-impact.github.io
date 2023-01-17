@@ -1,10 +1,10 @@
 ### MULTI ARC FURNACE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParArc.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParArc.png)
 
 ##### Description
 
-The machine is analog to Arc Furnace, Alloy Smelter and Drying Oven. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Arc Furnace, Alloy Smelter and Drying Oven. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

@@ -1,10 +1,10 @@
 ### MULTI MACERATION STACK
 
-![LOGO](https://gtimpact.space/media/gregtech/ParMacer.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMacer.png)
 
 ##### Описание
 
-Машина является аналогом Macerator. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Macerator. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

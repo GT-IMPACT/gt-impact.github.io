@@ -1,10 +1,10 @@
 ### MULTI CUTTING MACHINE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParCutt.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParCutt.png)
 
 ##### Описание
 
-Машина является аналогом Cutting Machine и Saw Mill. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Cutting Machine и Saw Mill. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

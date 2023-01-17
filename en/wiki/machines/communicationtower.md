@@ -26,4 +26,4 @@ The tower does not require electrical power.
 
 Setting the frequency for connecting the Communication Tower to the satellite:
 
-![BIG](https://gtimpact.space/media/gregtech/connectTowerSattelite.gif)
+![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerSattelite.gif)

@@ -1,6 +1,6 @@
 ### ELECTRIC WATER DRILLING RIG
 
-![LOGO](https://gtimpact.space/media/gregtech/ElWater.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ElWater.png)
 
 ##### Description
 

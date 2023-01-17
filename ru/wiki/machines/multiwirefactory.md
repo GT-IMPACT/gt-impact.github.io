@@ -1,10 +1,10 @@
 ### MULTI WIRE FACTORY
 
-![LOGO](https://gtimpact.space/media/gregtech/ParWire.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParWire.png)
 
 ##### Описание
 
-Машина является аналогом Wiremill и Wire Assembler. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является аналогом Wiremill и Wire Assembler. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

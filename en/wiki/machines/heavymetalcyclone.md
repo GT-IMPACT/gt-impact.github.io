@@ -4,7 +4,7 @@
 
 ##### Description
 
-The mechanism allows you to purify various naquadah liquids from impurities of metals, as well as obtain rare superheavy elements. Can work with [parallelism](/wiki/mechanics#parallelism).
+The mechanism allows you to purify various naquadah liquids from impurities of metals, as well as obtain rare superheavy elements. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

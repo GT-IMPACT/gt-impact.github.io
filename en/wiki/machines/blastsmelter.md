@@ -1,6 +1,6 @@
 ### BLAST SMELTER
 
-![LOGO](https://gtimpact.space/media/gregtech/BlastSmelter.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/BlastSmelter.png)
 
 ##### Description
 

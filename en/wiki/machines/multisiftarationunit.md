@@ -1,10 +1,10 @@
 ### MULTI SIFTARATION UNIT
 
-![LOGO](https://gtimpact.space/media/gregtech/ParSift.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSift.png)
 
 ##### Description
 
-The machine is analog to Electromagnetic Separator and Sifting Machine. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Electromagnetic Separator and Sifting Machine. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

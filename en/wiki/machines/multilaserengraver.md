@@ -1,10 +1,10 @@
 ### MULTI LASER ENGRAVER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParLaser.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParLaser.png)
 
 ##### Description
 
-The machine is analog to Precision Laser Engraver. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Precision Laser Engraver. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

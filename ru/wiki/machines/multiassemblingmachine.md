@@ -1,10 +1,10 @@
 ### MULTI ASSEMBLING MACHINE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParAssembler.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParAssembler.png)
 
 ##### Описание
 
-Машина является многоблочным аналогом Assembler, Circuit Assembler, Component Assembler. Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина является многоблочным аналогом Assembler, Circuit Assembler, Component Assembler. Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

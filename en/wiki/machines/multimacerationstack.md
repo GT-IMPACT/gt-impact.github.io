@@ -1,10 +1,10 @@
 ### MULTI MACERATION STACK
 
-![LOGO](https://gtimpact.space/media/gregtech/ParMacer.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMacer.png)
 
 ##### Description
 
-The machine is analog to Macerator. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Macerator. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

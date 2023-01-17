@@ -1,6 +1,6 @@
 ### BLAST SMELTER
 
-![LOGO](https://gtimpact.space/media/gregtech/BlastSmelter.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/BlastSmelter.png)
 
 ##### Описание
 
@@ -8,7 +8,7 @@
 
 ##### Главное
 
-Выполняет рецепты, которые можно увидеть в NEI. 
+Выполняет рецепты, которые можно увидеть в NEI.
 
 Доменный сплавщик может работать со множеством программных схем, находящихся в разных Input Bus. Рецепт выполняется с той схемой, которая находится в том же Input Bus, что и материалы.
 

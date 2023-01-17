@@ -1,10 +1,10 @@
 ### MULTI MIXING MACHINE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParMix.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMix.png)
 
 ##### Description
 
-The machine is analog to Mixer. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Mixer. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

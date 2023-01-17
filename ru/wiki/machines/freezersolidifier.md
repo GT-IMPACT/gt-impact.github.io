@@ -1,10 +1,10 @@
 ### FREEZER SOLIDIFIER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParFrezSolid.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFrezSolid.png)
 
 ##### Описание
 
-Машина нужна для охлаждения в слитки сплавов, полученных в жидком виде в доменном сплавщике (Blast Smelter). Может работать с [параллельностью](/wiki/mechanics#parallelism).
+Машина нужна для охлаждения в слитки сплавов, полученных в жидком виде в доменном сплавщике (Blast Smelter). Может работать с [параллельностью](/mechanics#parallelism).
 
 ##### Главное
 

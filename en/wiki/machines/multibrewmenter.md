@@ -1,10 +1,10 @@
 ### MULTI BREWMENTER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParBrew.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParBrew.png)
 
 ##### Description
 
-The machine is analog to Brewery and Fermenter. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Brewery and Fermenter. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

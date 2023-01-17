@@ -26,4 +26,4 @@ Communication Receiver используется для настройки сое
 
 Установка частоты для соединения коммуникационной вышки со спутником:
 
-![BIG](https://gtimpact.space/media/gregtech/connectTowerSattelite.gif)
+![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerSattelite.gif)

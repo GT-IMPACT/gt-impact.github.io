@@ -1,10 +1,10 @@
 ### MULTI UTILITY MACHINE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParUtill.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParUtill.png)
 
 ##### Description
 
-The machine is analog to Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe and Polarizer. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is analog to Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe and Polarizer. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 
