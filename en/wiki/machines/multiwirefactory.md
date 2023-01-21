@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Wiremill and Wire Assembler. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Wiremill and Wire Assembler. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

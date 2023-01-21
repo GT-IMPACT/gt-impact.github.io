@@ -4,7 +4,7 @@
 
 ##### Description
 
-The mechanism is designed for efficient processing of ore extracted by drilling rigs. Can work with [parallelism](/mechanics#parallelism).
+The mechanism is designed for efficient processing of ore extracted by drilling rigs. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

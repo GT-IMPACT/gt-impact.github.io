@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является многоблочным аналогом Assembler, Circuit Assembler, Component Assembler. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является многоблочным аналогом Assembler, Circuit Assembler, Component Assembler. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

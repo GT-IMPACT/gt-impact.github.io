@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Cutting Machine и Saw Mill. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Cutting Machine и Saw Mill. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

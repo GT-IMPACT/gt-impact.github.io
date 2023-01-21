@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Multiblock Centrifuge и Thermal Centrifuge. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Multiblock Centrifuge и Thermal Centrifuge. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

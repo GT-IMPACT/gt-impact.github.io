@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Cutting Machine and Saw Mill. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Cutting Machine and Saw Mill. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

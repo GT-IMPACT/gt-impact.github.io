@@ -44,13 +44,13 @@ Connecting the Communication Tower to the Parallel Computer and to the Parallel 
 
 This machine must be in Orbit to transmit communication between the Communications Tower.
 
-For more information, see this article - [Space satellite](/machines#spacesatellite )
+For more information, see this article - [Space satellite](#/machines#spacesatellite )
 
 ##### Communication Tower
 
 This machine allows communication between the Parallel Machines and the Parallel Computer.
 
-For more information, see this article - [Communication Tower](/machines#communicationtower )
+For more information, see this article - [Communication Tower](#/machines#communicationtower )
 
 ##### Parallel Computer
 
@@ -62,7 +62,7 @@ PP transmission requires special hatches- Parallel Transmitter.
 
 There are 4 tiers of Parallel Transmitter which limit maximum PP transmission: 4, 16, 64, 256.
 
-For more information, see this article - [Parallel Computer](/machines#parallelsupercomputer)
+For more information, see this article - [Parallel Computer](#/machines#parallelsupercomputer)
 
 ##### Parallel Machines
 

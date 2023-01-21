@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Fluid Extractor, Fluid Solidifier и Fluid Heater. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Fluid Extractor, Fluid Solidifier и Fluid Heater. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

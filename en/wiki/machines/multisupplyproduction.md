@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Autoclave, Dust Washer, Ore Washing Plant and Chemical Bath. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Autoclave, Dust Washer, Ore Washing Plant and Chemical Bath. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

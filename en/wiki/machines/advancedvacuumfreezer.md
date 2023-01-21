@@ -4,7 +4,7 @@
 /media/gregtech/ParFreez.png
 ##### Description
 
-The machine is an improved version of the Vacuum Freezer. Can work with [parallelism](/mechanics#parallelism).
+The machine is an improved version of the Vacuum Freezer. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

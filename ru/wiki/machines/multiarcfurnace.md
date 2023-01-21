@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Arc Furnace, Alloy Smelter и Drying Oven. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Arc Furnace, Alloy Smelter и Drying Oven. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

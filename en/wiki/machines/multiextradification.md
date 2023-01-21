@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Fluid Extractor, Fluid Solidifier and Fluid Heater. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Fluid Extractor, Fluid Solidifier and Fluid Heater. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

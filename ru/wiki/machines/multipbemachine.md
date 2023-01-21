@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Extruder, Bender и Forming Press. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Extruder, Bender и Forming Press. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

@@ -23,7 +23,7 @@ There are 3 types of stones:
 - Metallic (iron, copper, tin, lead)
 - Coal-sulfur (coal, lignite, sulfur)
 
-After extraction of the stones, they are processed in a special machine - [The Mill](wiki/machines#themill)
+After extraction of the stones, they are processed in a special machine - [The Mill](#/machines#themill)
 
 ![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/946022528411893770/unknown.png)
 
@@ -66,8 +66,8 @@ In the late game there are manual ore prospectors, which do not require anything
 ##### Ore mining
 
 To mine the ore, you will need miners:
-- Coal Miner: consume coal, mines ore in layer #0 ([check](/machines#coalminer))
-- Basic Electric Miner: able to mine ore in all layers, has a small bonus when digging ([check](/machines#basicelectricminer))
-- Advanced Electric Miner: able to mine ore in all layers, has a significant digging bonus, and also contains a flotation module ([check](/machines#advancedelectricminer))
+- Coal Miner: consume coal, mines ore in layer #0 ([check](#/machines#coalminer))
+- Basic Electric Miner: able to mine ore in all layers, has a small bonus when digging ([check](#/machines#basicelectricminer))
+- Advanced Electric Miner: able to mine ore in all layers, has a significant digging bonus, and also contains a flotation module ([check](#/machines#advancedelectricminer))
 
 ![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928070934580068462/unknown.png)

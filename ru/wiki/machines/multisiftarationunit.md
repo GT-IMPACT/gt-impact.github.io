@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Electromagnetic Separator и Sifting Machine. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Electromagnetic Separator и Sifting Machine. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Multiblock Centrifuge and Thermal Centrifuge. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Multiblock Centrifuge and Thermal Centrifuge. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

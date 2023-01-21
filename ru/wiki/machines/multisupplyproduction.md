@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Autoclave, Dust Washer, Ore Washing Plant и Chemical Bath. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Autoclave, Dust Washer, Ore Washing Plant и Chemical Bath. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe и Polarizer. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe и Polarizer. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

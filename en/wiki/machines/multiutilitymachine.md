@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe and Polarizer. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe and Polarizer. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

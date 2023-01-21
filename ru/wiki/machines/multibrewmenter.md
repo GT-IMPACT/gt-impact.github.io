@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Brewery и Fermenter. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Brewery и Fermenter. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

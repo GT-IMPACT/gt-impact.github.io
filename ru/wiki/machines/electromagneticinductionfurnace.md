@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является улучшенной версией Electric Blast Furnace. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является улучшенной версией Electric Blast Furnace. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

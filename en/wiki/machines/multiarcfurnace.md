@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is analog to Arc Furnace, Alloy Smelter and Drying Oven. Can work with [parallelism](/mechanics#parallelism).
+The machine is analog to Arc Furnace, Alloy Smelter and Drying Oven. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 

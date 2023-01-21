@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является улучшенной версией Large Chemical Reactor. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является улучшенной версией Large Chemical Reactor. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

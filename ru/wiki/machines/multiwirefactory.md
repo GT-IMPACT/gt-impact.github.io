@@ -4,7 +4,7 @@
 
 ##### Описание
 
-Машина является аналогом Wiremill и Wire Assembler. Может работать с [параллельностью](/mechanics#parallelism).
+Машина является аналогом Wiremill и Wire Assembler. Может работать с [параллельностью](#/mechanics#parallelism).
 
 ##### Главное
 

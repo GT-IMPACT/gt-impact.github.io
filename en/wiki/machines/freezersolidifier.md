@@ -4,7 +4,7 @@
 
 ##### Description
 
-The machine is needed to cool liquid alloys from the Blast Smelter into ingots. Can work with [parallelism](/mechanics#parallelism).
+The machine is needed to cool liquid alloys from the Blast Smelter into ingots. Can work with [parallelism](#/mechanics#parallelism).
 
 ##### General
 
