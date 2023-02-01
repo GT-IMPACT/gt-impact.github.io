@@ -7,8 +7,8 @@ const updateList = [
     title: '',
     desc: '',
     img: 'media/home/1022.jpg',
-    linkServer: 'https://www.dropbox.com/s/3zexhugyom9bad1/IMPACT-1.0.2.2-SERVER.zip?dl=1',
-    linkClient: 'https://www.dropbox.com/s/fn659u5fr70yl68/IMPACT-1.0.2.2-CLIENT.zip?dl=1',
+    linkServer: 'https://www.dropbox.com/s/f75uuetlrin0baq/IMPACT-1.0.2.2-SERVER.zip?dl=1',
+    linkClient: 'https://www.dropbox.com/s/3sj7pi5fzfxhow4/IMPACT-1.0.2.2-CLIENT.zip?dl=1',
     changelog: [
       {
         label: 'MODPACK', children: [
