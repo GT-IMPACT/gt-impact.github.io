@@ -42,8 +42,8 @@
                         <q-item class="justify-center items-center q-py-none" style="font-size: 12px;">
                           {{ $t('download_server_cores') }}
                         </q-item>
-                        <q-btn :href="'https://www.dropbox.com/s/bofazfa5xwakrnp/THERMOS_IMPACT_EMPTY_SERVER.zip?dl=1'" class="q-mx-sm" flat label="IMPACT UltraMine" no-caps size="md" target="_blank" type="a" />
-                        <q-btn :href="'https://www.dropbox.com/s/ca5acylszo45omr/ULTRAMINE_IMPACT_EMPTY_SERVER.zip?dl=1'" class="q-mx-sm" flat label="Thermos" no-caps size="md" target="_blank" type="a" />
+                        <q-btn :href="'https://www.dropbox.com/s/ca5acylszo45omr/ULTRAMINE_IMPACT_EMPTY_SERVER.zip?dl=1'" class="q-mx-sm" flat label="IMPACT UltraMine" no-caps size="md" target="_blank" type="a" />
+                        <q-btn :href="'https://www.dropbox.com/s/bofazfa5xwakrnp/THERMOS_IMPACT_EMPTY_SERVER.zip?dl=1'" class="q-mx-sm" flat label="Thermos" no-caps size="md" target="_blank" type="a" />
                       </q-card-section>
                     </q-card>
                   </q-card>
