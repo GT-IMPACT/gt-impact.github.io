@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "machines",
+    "label": "wiki_machines",
+    "icon": "precision_manufacturing"
+  },
+  {
+    "id": 1,
+    "name": "mechanics",
+    "label": "wiki_mechanics",
+    "icon": "book"
+  },
+  {
+    "id": 2,
+    "name": "items",
+    "label": "wiki_items",
+    "icon": "construction"
+  }
+]
