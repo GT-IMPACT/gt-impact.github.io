@@ -11,14 +11,14 @@ const thirdLog = emoji.get('rocket') + ' ' + chalk.green('Your app successfully 
     const { stdout: currentBranch } = await execa.command('git branch --show-current')
     await execa.command('git checkout --orphan gh-pages')
     console.log(firstLog)
-    
+
     await execa.command('quasar build', { stdio: 'inherit' })
     await execa.command('git --work-tree dist add --all')
     await execa.command('git --work-tree dist/spa commit -m "gh-pages"')
     console.log(secondLog)
-    
+
     await execa.command('git push origin HEAD:gh-pages --force', { stdio: 'inherit' })
-    await execa.command('rm -r dist/spa')
+    await execa.command('rm -r dist/spa/')
     await execa.command(`git checkout -f ${currentBranch}`)
     await execa.command('git branch -D gh-pages')
     console.log(thirdLog)
