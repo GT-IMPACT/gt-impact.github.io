@@ -76,5 +76,6 @@ export default {
   wiki_items: "Инструменты и предметы",
 
   wiki_mechanics_oregeneration: "Рудогенерация",
-  wiki_mechanics_parallelism: "Параллельность",
+  wiki_mechanics_parallelism: "Параллельная система",
+  wiki_mechanics_satellite_network: "Спутниковая сеть",
 }

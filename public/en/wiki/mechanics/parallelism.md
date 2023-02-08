@@ -1,6 +1,11 @@
 ### Parallelism
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939784614275330088/PARALLELISM.png)
+![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/1072802092139413554/PARALLEL_NETWORK.png)
+
+##### Conditions
+
+For a parallel system to work, will need:
+- [Satellite Network](#/mechanics#satellite_network)
 
 ##### General
 
@@ -22,47 +27,19 @@ Recipe with PP: **4 * x** steel ingots in **4 * x** steel plates in **t** time a
 
 Thus, in the same time we can perform a different number of the same recipe.
 
-##### Wireless communication
-
-In IMPACT Parallelism works by wireless communication.
-
-The communication is represented as follows:
-
-Parallel Computer > Communications Tower > Space Satellite > Communications Tower > Parallel Machines.
-
-A special tool, the notebook, is used for all connections.
-
-Connecting the Space Satellite to the Communications Tower (see below):
-
-![BIG](https://i.imgur.com/5fOq2WD.gif)
-
-Connecting the Communication Tower to the Parallel Computer and to the Parallel Machines (see below):
-
-![BIG](https://i.imgur.com/hg3ctYF.gif)
-
-##### Space satellite
-
-This machine must be in Orbit to transmit communication between the Communications Tower.
-
-For more information, see this article - [Space satellite](#/machines#spacesatellite )
-
-##### Communication Tower
-
-This machine allows communication between the Parallel Machines and the Parallel Computer.
-
-For more information, see this article - [Communication Tower](#/machines#communicationtower )
-
 ##### Parallel Computer
 
 This machine is capable of generating PP. In order to generate PP, special CPU cores are required.
 
 There are 4 tiers of CPU cores, which are divided by PP generation: 4, 16, 64, 256.
 
-PP transmission requires special hatches- Parallel Transmitter.
+PP transmission requires special hatches - Parallel Transmitter.
 
 There are 4 tiers of Parallel Transmitter which limit maximum PP transmission: 4, 16, 64, 256.
 
 For more information, see this article - [Parallel Computer](#/machines#parallelsupercomputer)
+
+**Important!** The parallel computer must be connected to the communication tower.
 
 ##### Parallel Machines
 
@@ -75,6 +52,8 @@ There are 4 tiers of Parallel Receiver, which limit the maximum number of PP: 4,
 
 Hatches can't just issue PP to a machine, it requires a connection to a Parallel Computer.
 
+**Important!** The machine must be connected to the communication tower.
+
 To connect to a computer you will need a Laptop (see below).
 
-![BIG](https://i.imgur.com/anGgJhL.gif)
+![BIG](https://i.imgur.com/btV9jZB.gif)

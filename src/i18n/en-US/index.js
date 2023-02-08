@@ -77,6 +77,7 @@ export default {
   wiki_items: "Tools and Items",
 
   wiki_mechanics_oregeneration: "Ore Generation",
-  wiki_mechanics_parallelism: "Parallelism",
+  wiki_mechanics_parallelism: "Parallel System",
+  wiki_mechanics_satellite_network: "Satellite Network",
 
 }

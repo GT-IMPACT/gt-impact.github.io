@@ -40,16 +40,11 @@ Parallel Transmitter используется для передачи парал
 
 Max PP - общее количество PP от параллельных процессоров, установленных в компьютере.
 
-
-Установка частоты подключения компьютера к Communication Tower:
-
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerComp.gif)
-
 Parallel Processors в Computer Rack:
 
 ![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ComputerRackGUI.png)
 
 Настройка передачи PP от компьютера к машине:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectMachineComp.gif)
+![BIG](https://i.imgur.com/btV9jZB.gif)
 

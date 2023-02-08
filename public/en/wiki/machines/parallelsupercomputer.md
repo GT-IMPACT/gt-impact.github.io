@@ -26,7 +26,7 @@ The structure of the computer can change (in length), the maximum length is 16 b
 
 ##### Principle of operation
 
-After installing the communication tower, it is necessary to tune the frequency with which the tower, computer and machines will worked. Are tuned through the laptop.
+After installing the communication tower, it is necessary to tune the frequency with which the tower, computer and machines will work. Are tuned through the laptop.
 
 
 There is a Computer Rack to control the points of parallels. The Computer Rack has 4 slots that fit the Parallel CPU. There are 4 types of processors that produce: 4, 16, 64, 256 PP.
@@ -47,15 +47,10 @@ Consumption (EU/t) = 8192 + Max PP.
 
 Max PP — the total amount of PP from the Parallel Processors installed in the computer.
 
-
-Setting the frequency for connecting the Computer to the Communication Tower:
-
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerComp.gif)
-
 Parallel Processors in a Computer Rack:
 
 ![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ComputerRackGUI.png)
 
-Setting up the transmit of PP from the computer to the machine:
+Setting up to transmit of PP from the computer to the machine:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectMachineComp.gif)
+![BIG](https://i.imgur.com/btV9jZB.gif)
