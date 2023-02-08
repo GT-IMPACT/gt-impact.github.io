@@ -19,6 +19,8 @@
 
 Для создания изолированной сети вам понадобится инструмент **Laptop**, с помощью которого нужно создать **ключ безопасности** (желательно его записать куда-либо, чтобы не потерять).
 
+![BIG](https://i.imgur.com/j3iqs8S.gif)
+
 На орбите планеты установить **Космический спутник**. Далее потребуется задать частоту спутнику, через **Communication Transmitter**.
 
 ![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectSattelite.gif)

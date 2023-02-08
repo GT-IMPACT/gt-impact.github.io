@@ -19,6 +19,8 @@ Satellite Network operation diagram:
 
 To create an isolated network, you will need the **Laptop** tool, with which you need to create a **security key** (it is advisable to write it somewhere so as not to lose it).
 
+![BIG](https://i.imgur.com/j3iqs8S.gif)
+
 Install a **Space satellite** in the orbit of the planet. Next, you will need to set the frequency to the satellite, via **Communication Transmitter**.
 
 ![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectSattelite.gif)
