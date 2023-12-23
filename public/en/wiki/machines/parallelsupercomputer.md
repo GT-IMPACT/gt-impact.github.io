@@ -22,7 +22,7 @@ What is parallelism? Parallelism is the ability to simultaneously perform the sa
 If we consider parallels in the game, then this is the execution of one type of recipe several times at one time (while the energy consumption is proportional to the number of recipes being executed).
 
 
-The structure of the computer can change (in length), the maximum length is 16 blocks, the minimum is 2.
+The structure of the computer can change (in length), the maximum length is 18 blocks, the minimum is 2.
 
 ##### Principle of operation
 
