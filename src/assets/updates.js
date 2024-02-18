@@ -55,8 +55,8 @@ const updateList = [
     title: '',
     desc: '',
     img: 'media/home/1022q.png',
-    linkServer: 'https://www.dropbox.com/scl/fi/e0dy1li57n7rnmvc2xr27/IMPACT-1.0.2.2q-SERVER.zip?dl=1',
-    linkClient: 'https://www.dropbox.com/scl/fi/z0etot578896wdswkuxyk/IMPACT-1.0.2.2q-CLIENT.zip?dl=1',
+    linkServer: 'https://www.dropbox.com/scl/fi/e0dy1li57n7rnmvc2xr27/IMPACT-1.0.2.2q-SERVER.zip?rlkey=s1s5676th8kltb9v6wqh2jw7o&dl=1',
+    linkClient: 'https://www.dropbox.com/scl/fi/z0etot578896wdswkuxyk/IMPACT-1.0.2.2q-CLIENT.zip?rlkey=3534f70zxxw65v2ka4tldgkzq&dl=1',
     changelog: [
       {
         label: 'MODPACK', children: [
