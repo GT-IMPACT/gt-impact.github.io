@@ -1,7 +1,8 @@
 const updateList = [
   {
     label: '1.0.2.2',
-    name: 'last',
+    name: '1022',
+    isBeta: false,
     id: '1022',
     date: '',
     title: '',
@@ -41,6 +42,29 @@ const updateList = [
           {label: 'add Mixins by GTNH'},
           {label: 'update EC2 by GTNH'},
           {label: 'update NEI by GTNH'},
+        ]
+      }
+    ]
+  },
+  {
+    label: '1.0.2.2-quests',
+    name: 'last',
+    isBeta: true,
+    id: '1022q',
+    date: '',
+    title: '',
+    desc: '',
+    img: 'media/home/1022q.png',
+    linkServer: 'https://www.dropbox.com/scl/fi/e0dy1li57n7rnmvc2xr27/IMPACT-1.0.2.2q-SERVER.zip?dl=1',
+    linkClient: 'https://www.dropbox.com/scl/fi/z0etot578896wdswkuxyk/IMPACT-1.0.2.2q-CLIENT.zip?dl=1',
+    changelog: [
+      {
+        label: 'MODPACK', children: [
+          {label: 'add 600+ quests'},
+        ]
+      }, {
+        label: 'UPDATE MODS', children: [
+          {label: 'add BetterQuests'},
         ]
       }
     ]

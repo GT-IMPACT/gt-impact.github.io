@@ -10,8 +10,11 @@
           <q-tabs v-model="tab" class="bg-primary text-white shadow-2 q-pa-sm">
             <template v-for="update in updates.updateList" :key="update">
               <q-tab :label="update.label" :name="update.name" class="q-mt-sm">
-                <q-badge v-if="update.name === 'last'" class="badge-last-update" color="red" floating>
+                <q-badge v-if="update.name === 'last' && !update.isBeta" class="badge-last-update" color="red" floating>
                   {{ $t('last_update') }}
+                </q-badge>
+                <q-badge v-if="update.isBeta" class="badge-last-update" color="red" floating>
+                  beta test
                 </q-badge>
               </q-tab>
             </template>
