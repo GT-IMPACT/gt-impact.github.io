@@ -1,6 +1,6 @@
 ### MULTI ARC FURNACE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParArc.png)
+![LOGO](media/gregtech/ParArc.png)
 
 ##### Описание
 

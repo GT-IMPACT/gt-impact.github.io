@@ -1,6 +1,6 @@
 ### MULTI SIFTARATION UNIT
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSift.png)
+![LOGO](media/gregtech/ParSift.png)
 
 ##### Описание
 

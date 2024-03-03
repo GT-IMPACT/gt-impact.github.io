@@ -7,7 +7,7 @@ const machines = [
         "id": 0,
         "tier": "steam",
         "name": "COKE OVEN",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/cokeoven.png",
+        "img": "media/gregtech/cokeoven.png",
         "desc": "This machine is designed for the production of charcoal / coke coal and creosote in the early stages.",
         "general": "The oven carries out recipes that can be seen at NEI.",
         "other": [
@@ -23,7 +23,7 @@ const machines = [
         "id": 1,
         "tier": "steam",
         "name": "PRIMITIVE WATER PUMP",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/primwaterpump.png",
+        "img": "media/gregtech/primwaterpump.png",
         "desc": "Designed to generate water at the initial stages and in hard-to-reach places without power supply.",
         "general": "The machine generates water without electricity depending on the biome in which the controller is located.",
         "other": [
@@ -42,7 +42,7 @@ const machines = [
         "id": 2,
         "tier": "ulv",
         "name": "SAW MILL",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/sawmill.png",
+        "img": "media/gregtech/sawmill.png",
         "desc": "Designed for woodworking, since all \"other\" woodworking mechanics are disabled (except hand tools), you will need this machine for processing.",
         "general": "The machine has 3 operating modes. Modes are switched using Screwdriver.",
         "other": [
@@ -70,7 +70,7 @@ const machines = [
         "id": 3,
         "tier": "lv",
         "name": "PYROLYSE OVEN",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/purolyse.png",
+        "img": "media/gregtech/purolyse.png",
         "desc": "The principle of operation of a pyrolysis oven is based on the thermal decomposition of organic substances into pyrolysis gases and solid residues.",
         "general": "The machine has a unique mechanics — product output during operation.",
         "other": [
@@ -91,7 +91,7 @@ const machines = [
         "id": 4,
         "tier": "ev",
         "name": "ADVANCED PYROLYSE OVEN",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/AdvPyrolyse.png",
+        "img": "media/gregtech/AdvPyrolyse.png",
         "desc": "The principle of operation of a pyrolysis oven is based on the thermal decomposition of organic substances into pyrolysis gases and solid residues.",
         "general": "The advanced Pyrolysis Oven differs from the conventional Pyrolysis Oven in that it is parallel (several recipes are executed at the same time).",
         "other": [
@@ -124,7 +124,7 @@ const machines = [
         "id": 5,
         "tier": "mv",
         "name": "ELECTRIC WATER DRILLING RIG",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ElWater.png",
+        "img": "media/gregtech/ElWater.png",
         "desc": "Designed for pumping water from bedrock using electricity.",
         "general": "The machine pumps out water from bedrock using electricity, depending on the biome in which the controller is located, and Energy Hatch and Output Hatch range.",
         "other": [
@@ -161,7 +161,7 @@ const machines = [
         "id": 6,
         "tier": "hv",
         "name": "SPACE SATELLITE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/SpaceSatellite.png",
+        "img": "media/gregtech/SpaceSatellite.png",
         "desc": "The Space Satellite allows for wireless communication between machines on earth.",
         "general": "— Need a Communication Tower",
         "other": [
@@ -185,7 +185,7 @@ const machines = [
               {"p": "Setting the frequency for the Space Satellite"},
             ],
             "img": [{
-              "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectSattelite.gif"
+              "img": "media/gregtech/connectSattelite.gif"
             }]
           },
         ]
@@ -193,7 +193,7 @@ const machines = [
         "id": 7,
         "tier": "ev",
         "name": "COMMUNICATION TOWER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParTower.png",
+        "img": "media/gregtech/ParTower.png",
         "desc": "The Communication Tower allows wireless communication between the satellite in orbit and machines on the «Earth».",
         "general": "— Need a Space Satellite",
         "other": [
@@ -214,14 +214,14 @@ const machines = [
               {"p": ""},
               {"p": "Setting the frequency for connecting the Communication Tower to the satellite"}
             ],
-            "img": [{"img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerSattelite.gif"}]
+            "img": [{"img": "media/gregtech/connectTowerSattelite.gif"}]
           },
         ]
       }, {
         "id": 8,
         "tier": "ev",
         "name": "NUCLEAR REACTOR",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearReactor.png",
+        "img": "media/gregtech/NuclearReactor.png",
         "desc": "There are 3 tiers of the reactor, they differ in structure and the amount of rods (1, 9 or 25). " +
           "Designed for the generation of conventional / superheated steam and for the extraction of radioactive resources.",
         "general": "The nuclear reactor has 2 modes of operation, Default Mode and Fast Decay Mode. Each mode includes 2 types of fuel: regular rods and MOX rods.",
@@ -251,7 +251,7 @@ const machines = [
               {"p": "Reactor control"},
             ],
             "img": [{
-              "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearGui.png"
+              "img": "media/gregtech/NuclearGui.png"
             }]
           }, {
             "title": "Rod control",
@@ -264,7 +264,7 @@ const machines = [
               {"p": "Rod control"},
             ],
             "img": [{
-              "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearHatch.png"
+              "img": "media/gregtech/NuclearHatch.png"
             }]
           },
         ]
@@ -272,7 +272,7 @@ const machines = [
         "id": 9,
         "tier": "iv",
         "name": "PARALLEL SUPER COMPUTER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParComputer.png",
+        "img": "media/gregtech/ParComputer.png",
         "desc": "The supercomputer allows parallels to be distributed to Impact machines.",
         "general": "— Need a Space Satellite",
         "other": [
@@ -312,26 +312,26 @@ const machines = [
               {"p": ""},
               {"p": "Setting the frequency for connecting the Computer to the Communication Tower"},
             ],
-            "img": [{"img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerComp.gif"}]
+            "img": [{"img": "media/gregtech/connectTowerComp.gif"}]
           }, {
             "title": "",
             "desc": [
               {"p": "Parallel Processors in a Computer Rack"},
             ],
-            "img": [{"img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ComputerRackGUI.png"}]
+            "img": [{"img": "media/gregtech/ComputerRackGUI.png"}]
           }, {
             "title": "",
             "desc": [
               {"p": "Setting up the transmit of PP from the computer to the machine"},
             ],
-            "img": [{"img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectMachineComp.gif"}]
+            "img": [{"img": "media/gregtech/connectMachineComp.gif"}]
           },
         ]
       }, {
         "id": 10,
         "tier": "iv",
         "name": "Lapotronic Supercapacitor",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/LSC.png",
+        "img": "media/gregtech/LSC.png",
         "desc": "Механизм позволяет хранить огромное количество энергии.",
         "general": "Не имеет потерь и не требует ничего для работы.",
         "other": [{
@@ -362,7 +362,7 @@ const machines = [
         "id": 11,
         "tier": "iv",
         "name": "Multi PBE Machine",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParBPE.png",
+        "img": "media/gregtech/ParBPE.png",
         "desc": "Машина является многоблочным аналогом Extruder, Bender и Forming Press. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет три режима работы. Режимы переключаются отврёткой. Может работать со множеством форм(схем)," +
           " находящимися в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift). " +
@@ -435,7 +435,7 @@ const machines = [
         "id": 12,
         "tier": "iv",
         "name": "Multi Laser Engraver",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParLaser.png",
+        "img": "media/gregtech/ParLaser.png",
         "desc": "Машина является многоблочным аналогом Laser Engraver. Может работать с многоамперными Energy Hatch и параллельностью",
         "general": "Выполняет все рецепты одноблочного аналога. Режимы переключаются отвёрткой. Может работать со множеством линз (схем), " +
           "находящимися в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift). " +
@@ -495,7 +495,7 @@ const machines = [
         "id": 13,
         "tier": "iv",
         "name": "Multi Assembling Machine",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParAssembler.png",
+        "img": "media/gregtech/ParAssembler.png",
         "desc": "Машина является многоблочным аналогом Assembler, Circuit Assembler, Component Assembler. Имеет параллельность.",
         "general": "Имеет три режима работы. Режимы переключаются отврёткой. Может работать со множеством схем, " +
           "находящимися в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift)." +
@@ -568,7 +568,7 @@ const machines = [
         "id": 14,
         "tier": "iv",
         "name": "MULTI CENTRIFUGE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParCentrifuge.png",
+        "img": "media/gregtech/ParCentrifuge.png",
         "desc": "Машина является аналогом Multiblock Centrifuge и Thermal Centrifuge. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет два режима работы. Режимы переключаются отвёрткой. ",
         "other": [
@@ -658,7 +658,7 @@ const machines = [
         "id": 15,
         "tier": "iv",
         "name": "MULTI ELECTROLYZER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParElectr.png",
+        "img": "media/gregtech/ParElectr.png",
         "desc": "Машина является аналогом Multiblock Electrolyzer. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Выполняет все рецепты аналога.",
         "other": [
@@ -730,7 +730,7 @@ const machines = [
         "id": 16,
         "tier": "iv",
         "name": "MULTI WIRE FACTORY",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParWire.png",
+        "img": "media/gregtech/ParWire.png",
         "desc": "Машина является аналогом Wiremill и Wire Assembler. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет два режима работы. Режимы переключаются отвёрткой. Может работать со множеством схем, находящихся в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift). Рецепт выполняется с той схемой, которая находится в том же басе, что и материал.",
         "other": [
@@ -811,7 +811,7 @@ const machines = [
         "id": 17,
         "tier": "iv",
         "name": "MULTI SUPPLY PRODUCTION",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSupply.png",
+        "img": "media/gregtech/ParSupply.png",
         "desc": "Машина является аналогом Autoclave, Dust Washer, Ore Washing Plant и Chemical Bath. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет четыре режима работы. Режимы переключаются отвёрткой.",
         "other": [
@@ -910,7 +910,7 @@ const machines = [
         "id": 18,
         "tier": "iv",
         "name": "MULTI UTILITY MACHINE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParUtill.png",
+        "img": "media/gregtech/ParUtill.png",
         "desc": "Машина является аналогом Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe, Polarizer. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет восемь режимов работы. Режимы переключаются отвёрткой. Может работать со множеством схем, находящихся в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift). Рецепт выполняется с той схемой, которая находится в том же басе, что и материал.",
         "other": [
@@ -1045,7 +1045,7 @@ const machines = [
         "id": 19,
         "tier": "iv",
         "name": "MULTI BREWMENTER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParBrew.png",
+        "img": "media/gregtech/ParBrew.png",
         "desc": "Машина является аналогом Brewery и Fermenter. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет два режима работы. Режимы переключаются отвёрткой.",
         "other": [
@@ -1126,7 +1126,7 @@ const machines = [
         "id": 20,
         "tier": "iv",
         "name": "MULTI ARC FURNACE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParArc.png",
+        "img": "media/gregtech/ParArc.png",
         "desc": "Машина является аналогом Arc Furnace и Alloy Smelter. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет два режима работы. Режимы переключаются отвёрткой. Может работать со множеством схем, находящихся в разных басах в режиме \\\"Buses separated on\\\" (переключается отвёрткой при зажатой клавише Shift). Рецепт выполняется с той схемой, которая находится в том же басе, что и материал. ",
         "other": [
@@ -1198,7 +1198,7 @@ const machines = [
         "id": 21,
         "tier": "iv",
         "name": "MULTI CUTTING MACHINE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParCutt.png",
+        "img": "media/gregtech/ParCutt.png",
         "desc": "Машина является аналогом Cutting Machine и Saw Mill. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет четыре режима работы. Режимы переключаются отвёрткой. ",
         "other": [
@@ -1297,7 +1297,7 @@ const machines = [
         "id": 22,
         "tier": "iv",
         "name": "MULTI EXTRADIFICATION",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParExtraDi.png",
+        "img": "media/gregtech/ParExtraDi.png",
         "desc": "Машина является аналогом Fluid Extractor, Fluid Solidifier и Fluid Heater. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет три режима работы. Режимы переключаются отвёрткой. ",
         "other": [
@@ -1387,7 +1387,7 @@ const machines = [
         "id": 23,
         "tier": "iv",
         "name": "MULTI MACERATION STACK",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMacer.png",
+        "img": "media/gregtech/ParMacer.png",
         "desc": "Машина является аналогом Macerator. Может работать с многоамперными Energy Hatch и параллельностью. ",
         "general": "Выполняет все рецепты одноблочного аналога.",
         "other": [
@@ -1442,7 +1442,7 @@ const machines = [
         "id": 24,
         "tier": "iv",
         "name": "MULTI MIXING MACHINE",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMix.png",
+        "img": "media/gregtech/ParMix.png",
         "desc": "Машина является многоблочным аналогом Mixer. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Выполняет все рецепты одноблочного аналога. Режимы переключаются отвёрткой. Может работать со множеством схем, находящихся в разных басах в режиме \"Buses separated on\" (переключается отвёрткой при зажатой клавише Shift). Рецепт выполняется с той схемой, которая находится в том же басе, что и материал.",
         "other": [
@@ -1505,7 +1505,7 @@ const machines = [
         "id": 25,
         "tier": "iv",
         "name": "MULTI SIFTARATION UNIT",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSift.png",
+        "img": "media/gregtech/ParSift.png",
         "desc": "Машина является аналогом Electromagnetic Separator и Sifting Machine. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Имеет два режима работы. Режимы переключаются отвёрткой. ",
         "other": [
@@ -1577,7 +1577,7 @@ const machines = [
         "id": 26,
         "tier": "ev",
         "name": "FREEZER SOLIDIFIER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFrezSolid.png",
+        "img": "media/gregtech/ParFrezSolid.png",
         "desc": "Машина нужна для охлаждения в слитки сплавов, полученных в жидком виде в доменном сплавщике (Blast Smelter). Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "В процессе работы холодильник-отливщик потребляет хладагент (IC2 Coolant).",
         "other": [
@@ -1632,7 +1632,7 @@ const machines = [
         "id": 27,
         "tier": "ev",
         "name": "BLAST SMELTER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/BlastSmelter.png",
+        "img": "media/gregtech/BlastSmelter.png",
         "desc": "Механизм позволяет получать сплавы в жидком виде из множества твердых компонентов на входе. Может работать с многоамперными Energy Hatch. ",
         "general": "Доменный сплавщик может работать со множеством программных схем, находящимися в разных Input Bus. Рецепт выполняется с той схемой, которая находится в том же Input Bus, что и материалы.",
         "other": [
@@ -1678,7 +1678,7 @@ const machines = [
         "id": 28,
         "tier": "zpm",
         "name": "ADVANCED VACUUM FREEZER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFreez.png",
+        "img": "media/gregtech/ParFreez.png",
         "desc": "Машина является улучшенной версией обычного вакуумного холодильника (Vacuum Freezer). Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "В процессе работы потребляет 50 л/с супер-хладагента (Super Coolant), выдавая 25 л/с горячего хладагента (Hot Coolant).",
         "other": [
@@ -1741,7 +1741,7 @@ const machines = [
         "id": 29,
         "tier": "lv",
         "name": "RAIL ASSEMBLER",
-        "img": "https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/RailAssembler.png",
+        "img": "media/gregtech/RailAssembler.png",
         "desc": "Машина нужна для производства железнодорожных путей. Может работать с многоамперными Energy Hatch.",
         "general": "Может работать со множеством схем, находящихся в разных басах. Рецепт выполняется с той схемой, которая находится в том же басе, что и материал.",
         "other": []
@@ -1749,7 +1749,7 @@ const machines = [
         "id": 30,
         "tier": "zpm",
         "name": "ELECTROMAGNETIC INDUCTION FURNACE",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916393262401601536/EIF.png",
+        "img": "media/gregtech/EIF.png",
         "desc": "Является аналогом Electric Blast Furnace с возможность установки параллельности. Может работать с многоамперными Energy Hatch. Доступна на ZPM тире.",
         "general": "Может выполнять все рецепты аналога. Может работать со множеством схем, находящихся в разных басах в режиме \\\"Buses separated on\\\" (переключается отвёрткой при зажатой клавише Shift). Рецепт выполняется с той схемой, которая находится в том же басе, что и материал.",
         "other": [
@@ -1803,7 +1803,7 @@ const machines = [
         "id": 31,
         "tier": "luv",
         "name": "MULTI CHEMICAL REACTOR",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916408486676537394/MLCR.png",
+        "img": "media/gregtech/MLCR.png",
         "desc": "Машина является аналогом Large Chemical Reactor с возможностью использования параллели. Может работать с многоамперными Energy Hatch. Доступна на LuV тире.",
         "general": "Может выполнять все рецепты аналога.",
         "other": [
@@ -1857,7 +1857,7 @@ const machines = [
         "id": 32,
         "tier": "luv",
         "name": "MULTI DISTILLATION TOWER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916408486332608592/MDT.png",
+        "img": "media/gregtech/MDT.png",
         "desc": "Машина является аналогом Distillation Tower с возможностью использования параллели. Может работать с многоамперными Energy Hatch.",
         "general": "На одном слое может располааться до 4 Output Hatch. Их можно залочить под выход определенной жидкости при помощи клика ПКМ отвёрткой с зажатой клавишей Shift.",
         "other": [
@@ -1920,7 +1920,7 @@ const machines = [
         "id": 33,
         "tier": "uv",
         "name": "ANTIMATTER REACTOR",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916636161731100732/ANTIMATT.png",
+        "img": "media/gregtech/ANTIMATT.png",
         "desc": "Генератор средней мощности на антиматерии. Может работать с многоамперными Dynamo Hatch. ",
         "general": "Сталкивая водород и анти-водород из магнитных контейнеров (Pod) и потребляя газообразный азот, выдает 4 л/тик азотной плазмы и электроэнергию мощностью 2 097 152 eU/t в течение 30 минут.",
         "other": []
@@ -1928,7 +1928,7 @@ const machines = [
         "id": 34,
         "tier": "uhv",
         "name": "TESSERACT",
-        "img": "https://media.discordapp.net/attachments/916393114166525974/916636161945002025/TESSERACT.png",
+        "img": "media/gregtech/TESSERACT.png",
         "desc": "Тессеракт позволяет получить первую инопланетную органику (Alien Organic Dust) и некоторые редкие материалы (америций и др.) в хороших количествах.",
         "general": "На получение материалов тратится гипер-топливо (Hyper Fuel) и много энергии. В зависимости от вида гипер-топлива, получаются разные материалы.",
         "other": [
@@ -1947,7 +1947,7 @@ const machines = [
         "id": 35,
         "tier": "ev",
         "name": "PARAMETRIC DIFFUSER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670175946870784/MATRIXDIFFUSER.png",
+        "img": "media/gregtech/MATRIXDIFFUSER.png",
         "desc": "В Input Bus рядом с контроллером необходимо положить любую совершенную (Exquisite) линзу. Требуется низкая гравитация.",
         "general": "Машина нужна для генерации пучка нестабильных матричных частиц.",
         "other": [
@@ -1980,7 +1980,7 @@ const machines = [
         "id": 36,
         "tier": "ev",
         "name": "MATRIX PARTICLES STABILIZER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670176190169138/MATRIXSTABILIZER.png",
+        "img": "media/gregtech/MATRIXSTABILIZER.png",
         "desc": "Машина нужна для стабилизации пучка нестабильных матричных частиц. Требуется низкая гравитация.",
         "general": "Луч нестабильных частиц от Parametric Diffuser должен входить в I-Glass слева, луч стабильных частиц для Matrix Particles Containment выходит справа.",
         "other": [
@@ -2022,7 +2022,7 @@ const machines = [
         "id": 37,
         "tier": "ev",
         "name": "PARTICLES CONTAINMENT",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670175670054982/MATRIXCONTAINER.png",
+        "img": "media/gregtech/MATRIXCONTAINER.png",
         "desc": "Машина заполняет стабильными матричными частицами специальные контейнеры. Требуется низкая гравитация.",
         "general": "Луч стабильных частиц от Matrix Particles Containment должен входить в I-Glass слева.",
         "other": [
@@ -2064,7 +2064,7 @@ const machines = [
         "id": 38,
         "tier": "ev",
         "name": "ME SYSTEM PROVIDER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916672070048428102/MESP.png",
+        "img": "media/gregtech/MESP.png",
         "desc": "Машина производит компоненты МЭ-сети, потребляя матричные частицы, а также ускоряет саму МЭ-сеть. Может работать с многоамперными Energy Hatch.",
         "general": "Потребляя матричные частицы, выполняет рецепты, которые можно увидеть в NEI. ",
         "other": [
@@ -2104,7 +2104,7 @@ const machines = [
         "id": 39,
         "tier": "steam",
         "name": "THE MILL",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967084292485120/THE_MILL.png",
+        "img": "media/gregtech/THE_MILL.png",
         "desc": "Ветрянная мельница это самый первый мультиблок в игре. Она вам потребуется для дробление перый ресурсных камешков. Мельница большая по размеру, а значит хороший вариант для первой базы.",
         "general": "Мельница выполняет рецепты, которые можно увидеть в неи.",
         "other": [
@@ -2123,7 +2123,7 @@ const machines = [
         "id": 40,
         "tier": "luv",
         "name": "ADVANCED CRACKING UNIT",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967084653199482/ADV_CRACKING.png",
+        "img": "media/gregtech/ADV_CRACKING.png",
         "desc": "Машина является аналогом Oil Cracking Unit. Может работать с многоамперными Energy Hatch и параллельностью.",
         "general": "Выполняет все рецепты аналога.",
         "other": [
@@ -2177,7 +2177,7 @@ const machines = [
         "id": 41,
         "tier": "steam",
         "name": "COAL MINER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967085383016509/COAL_MINER.png",
+        "img": "media/gregtech/COAL_MINER.png",
         "desc": "Базовый майнер для добычи полезных ископаемых.",
         "general": "Майнер добывает руду в чанке в котором находится. ",
         "other": [
@@ -2207,7 +2207,7 @@ const machines = [
               }
             ],
             "img": [
-              {"img": "https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png"}
+              {"img": "media/gregtech/miner_drill.png"}
             ]
           },
           {
@@ -2224,7 +2224,7 @@ const machines = [
         "id": 42,
         "tier": "lv",
         "name": "BASIC ELECTRIC MINER",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/927976409127862402/BASIC_MINER.png",
+        "img": "media/gregtech/BASIC_MINER.png",
         "desc": "Электрический майнер для добычи полезных ископаемых",
         "general": "Майнер добывает руду в чанке в котором находится.",
         "other": [
@@ -2257,7 +2257,7 @@ const machines = [
               }
             ],
             "img": [
-              {"img": "https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png"}
+              {"img": "media/gregtech/miner_drill.png"}
             ]
           },
           {
@@ -2275,7 +2275,7 @@ const machines = [
         "id": 43,
         "tier": "ev",
         "name": "ADVANCED ELECTRIC MINER",
-        "img": "https://media.discordapp.net/attachments/916393114166525974/927967084997144616/ADV_MINER.png",
+        "img": "media/gregtech/ADV_MINER.png",
         "desc": "Улучшеный электрический майнер для добычи полезных ископаемых.",
         "general": "Майнер добывает руду во всей жиле в которой находится чанк и сам майнер.",
         "other": [
@@ -2309,7 +2309,7 @@ const machines = [
             ],
             "img": [
               {
-                "img": "https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png"
+                "img": "media/gregtech/miner_drill.png"
               }
             ]
           },
@@ -2343,7 +2343,7 @@ const machines = [
             ],
             "img": [
               {
-                "img": "https://cdn.discordapp.com/attachments/916393114166525974/927979571993776218/unknown.png"
+                "img": "media/gregtech/enrich.png"
               }
             ]
           },
@@ -2362,7 +2362,7 @@ const machines = [
         "id": 44,
         "tier": "lv",
         "name": "AEROSTATE PLATFORM",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/928212885841264650/AEROSTATE.png",
+        "img": "media/gregtech/AEROSTATE.png",
         "desc": "Аэростат, воздушный шар и тд. Данный мультиблок представляет собой платформу для перемещения в игре.",
         "general": "Для перемещения вам потребуется газ, чаще всего используется Natural Gas или Refinery Gas.",
         "other": [
@@ -2427,7 +2427,7 @@ const machines = [
         "id": 0,
         "tier": "zpm",
         "name": "Research Station",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916638729341374504/RESEARCHSTATION.png",
+        "img": "media/gregtech/RESEARCHSTATION.png",
         "desc": "Механизм нужен для изучения рецептов высокоуровневых предметов (как правило, UHV+ тира). Может работать с многоамперными Energy Hatch.",
         "general": "Флешку (Data Stick) необходимо положить в контроллер исследовательской станции. Предмет, который необходимо изучить для получения рецепта - в Object Holder.",
         "other": [
@@ -2453,7 +2453,7 @@ const machines = [
         "id": 1,
         "tier": "zpm",
         "name": "Quantum Computer",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916660851237322782/QCOMPUTER.png",
+        "img": "media/gregtech/QCOMPUTER.png",
         "desc": "Механизм нужен для обеспечения исследовательской станции (Research station) вычислениями (computation). Может работать с многоамперными Energy Hatch.",
         "general": "Квантовый компьютер связывается с исследовательской станцией с помощью оптоволокна (Optical Fiber Cable). " +
           "В станции кабель подключается к приемнику данных (Optical Slave Connector), в компьютере - к передатчику данных (Optical Master Connector). " +
@@ -2525,7 +2525,7 @@ const machines = [
             ],
             "img": [
               {
-                "img": "https://cdn.discordapp.com/attachments/916393114166525974/924258464195289138/Uncertain.png"
+                "img": "media/gregtech/Uncertain.png"
               }
             ]
           }]
@@ -2533,7 +2533,7 @@ const machines = [
         "id": 2,
         "tier": "zpm",
         "name": "Data Bank",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/916693113970499634/DB.png",
+        "img": "media/gregtech/DB.png",
         "desc": "Механизм позволяет хранить большое количество флешек (Data Stick) с рецептами  сборочных линий (Assembly Line) и поставлять в них эти рецепты. Может работать с многоамперными Energy Hatch.",
         "general": "Флешки хранятся в Data Access Hatch (обычный, Advanced, Automatable). ",
         "other": [{
@@ -2591,7 +2591,7 @@ const mechanics = [
         "id": 0,
         debug: 0,
         "name": "How the Works Ores",
-        "img": "https://cdn.discordapp.com/attachments/916393114166525974/928074818505560064/111.png",
+        "img": "media/gregtech/111.png",
         category: [
           {
             "title": "Описание",
@@ -2614,7 +2614,7 @@ const mechanics = [
               "",
             ],
             imgBody: [
-              "https://cdn.discordapp.com/attachments/916393114166525974/928061128100184124/unknown.png",
+              "media/gregtech/ore_layer_0.png",
             ]
           }, {
             "title": "",
@@ -2671,7 +2671,7 @@ const mechanics = [
               "",
             ],
             imgBody: [
-              "https://cdn.discordapp.com/attachments/916393114166525974/928070934580068462/unknown.png",
+              "media/gregtech/miners.png",
             ]
           },
         ]

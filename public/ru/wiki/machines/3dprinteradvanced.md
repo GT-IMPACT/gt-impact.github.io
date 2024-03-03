@@ -1,6 +1,6 @@
 ### ADVANCED 3D PRINTER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939221716226437130/Adv3DPrint.png)
+![LOGO](media/gregtech/Adv3DPrint.png)
 
 ##### Описание
 

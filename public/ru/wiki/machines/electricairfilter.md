@@ -1,6 +1,6 @@
 ### ELECTRIC AIR FILTER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873326082449448/AIR_FILTER.png)
+![LOGO](media/gregtech/AIR_FILTER.png)
 
 ##### Описание
 

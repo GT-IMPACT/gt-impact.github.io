@@ -1,6 +1,6 @@
 ### LAPOTRONIC SUPERCAPACITOR
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/LSC.png)
+![LOGO](media/gregtech/LSC.png)
 
 ##### Description
 

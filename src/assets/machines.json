@@ -68,7 +68,7 @@
     "slug": "communicationtower",
     "tier": "ev",
     "article": "wiki/machines/communicationtower.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939743605566873600/COM_TOWER.png",
+    "img": "media/gregtech/COM_TOWER.png",
     "mod": "impact"
   },
   {
@@ -275,7 +275,7 @@
     "slug": "electromagneticinductionfurnace",
     "tier": "zpm",
     "article": "wiki/machines/electromagneticinductionfurnace.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916393262401601536/EIF.png",
+    "img": "media/gregtech/EIF.png",
     "mod": "impact"
   },
   {
@@ -284,7 +284,7 @@
     "slug": "multichemicalreactor",
     "tier": "luv",
     "article": "wiki/machines/multichemicalreactor.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916408486676537394/MLCR.png",
+    "img": "media/gregtech/MLCR.png",
     "mod": "impact"
   },
   {
@@ -293,7 +293,7 @@
     "slug": "multidistillationtower",
     "tier": "luv",
     "article": "wiki/machines/multidistillationtower.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916408486332608592/MDT.png",
+    "img": "media/gregtech/MDT.png",
     "mod": "impact"
   },
   {
@@ -302,7 +302,7 @@
     "slug": "antimatterreactor",
     "tier": "uv",
     "article": "wiki/machines/antimatterreactor.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916636161731100732/ANTIMATT.png",
+    "img": "media/gregtech/ANTIMATT.png",
     "mod": "impact"
   },
   {
@@ -311,7 +311,7 @@
     "slug": "tesseract",
     "tier": "uhv",
     "article": "wiki/machines/tesseract.md",
-    "img": "https://media.discordapp.net/attachments/916393114166525974/916636161945002025/TESSERACT.png",
+    "img": "media/gregtech/TESSERACT.png",
     "mod": "impact"
   },
   {
@@ -320,7 +320,7 @@
     "slug": "parametricdiffuser",
     "tier": "ev",
     "article": "wiki/machines/parametricdiffuser.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670175946870784/MATRIXDIFFUSER.png",
+    "img": "media/gregtech/MATRIXDIFFUSER.png",
     "mod": "impact"
   },
   {
@@ -329,7 +329,7 @@
     "slug": "matrixparticlesstabilizer",
     "tier": "ev",
     "article": "wiki/machines/matrixparticlesstabilizer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670176190169138/MATRIXSTABILIZER.png",
+    "img": "media/gregtech/MATRIXSTABILIZER.png",
     "mod": "impact"
   },
   {
@@ -338,7 +338,7 @@
     "slug": "particlescontainment",
     "tier": "ev",
     "article": "wiki/machines/particlescontainment.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916670175670054982/MATRIXCONTAINER.png",
+    "img": "media/gregtech/MATRIXCONTAINER.png",
     "mod": "impact"
   },
   {
@@ -347,7 +347,7 @@
     "slug": "mesystemprovider",
     "tier": "ev",
     "article": "wiki/machines/mesystemprovider.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916672070048428102/MESP.png",
+    "img": "media/gregtech/MESP.png",
     "mod": "impact"
   },
   {
@@ -356,7 +356,7 @@
     "slug": "themill",
     "tier": "steam",
     "article": "wiki/machines/themill.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967084292485120/THE_MILL.png",
+    "img": "media/gregtech/THE_MILL.png",
     "mod": "impact"
   },
   {
@@ -365,7 +365,7 @@
     "slug": "advancedcrackingunit",
     "tier": "luv",
     "article": "wiki/machines/advancedcrackingunit.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967084653199482/ADV_CRACKING.png",
+    "img": "media/gregtech/ADV_CRACKING.png",
     "mod": "impact"
   },
   {
@@ -374,7 +374,7 @@
     "slug": "coalminer",
     "tier": "steam",
     "article": "wiki/machines/coalminer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/927967085383016509/COAL_MINER.png",
+    "img": "media/gregtech/COAL_MINER.png",
     "mod": "impact"
   },
   {
@@ -383,7 +383,7 @@
     "slug": "basicelectricminer",
     "tier": "lv",
     "article": "wiki/machines/basicelectricminer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/927976409127862402/BASIC_MINER.png",
+    "img": "media/gregtech/BASIC_MINER.png",
     "mod": "impact"
   },
   {
@@ -392,7 +392,7 @@
     "slug": "advancedelectricminer",
     "tier": "ev",
     "article": "wiki/machines/advancedelectricminer.md",
-    "img": "https://media.discordapp.net/attachments/916393114166525974/927967084997144616/ADV_MINER.png",
+    "img": "media/gregtech/ADV_MINER.png",
     "mod": "impact"
   },
   {
@@ -401,7 +401,7 @@
     "slug": "aerostateplatform",
     "tier": "lv",
     "article": "wiki/machines/aerostateplatform.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/928212885841264650/AEROSTATE.png",
+    "img": "media/gregtech/AEROSTATE.png",
     "mod": "impact"
   },
   {
@@ -410,7 +410,7 @@
     "slug": "researchstation",
     "tier": "zpm",
     "article": "wiki/machines/researchstation.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916638729341374504/RESEARCHSTATION.png",
+    "img": "media/gregtech/RESEARCHSTATION.png",
     "mod": "tectech"
   },
   {
@@ -419,7 +419,7 @@
     "slug": "quantumcomputer",
     "tier": "zpm",
     "article": "wiki/machines/quantumcomputer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916660851237322782/QCOMPUTER.png",
+    "img": "media/gregtech/QCOMPUTER.png",
     "mod": "tectech"
   },
   {
@@ -428,7 +428,7 @@
     "slug": "databank",
     "tier": "zpm",
     "article": "wiki/machines/databank.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/916693113970499634/DB.png",
+    "img": "media/gregtech/DB.png",
     "mod": "tectech"
   },
   {
@@ -437,7 +437,7 @@
     "slug": "electricimplosioncompressor",
     "tier": "luv",
     "article": "wiki/machines/electricimplosioncompressor.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939222212240637952/EIMPLOSpng.png",
+    "img": "media/gregtech/EIMPLOSpng.png",
     "mod": "impact"
   },
   {
@@ -446,7 +446,7 @@
     "slug": "3dprinterbasic",
     "tier": "hv",
     "article": "wiki/machines/3dprinterbasic.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939221716754894929/3DPrint.png",
+    "img": "media/gregtech/3DPrint.png",
     "mod": "impact"
   },
   {
@@ -455,7 +455,7 @@
     "slug": "3dprinteradvanced",
     "tier": "iv",
     "article": "wiki/machines/3dprinteradvanced.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939221716226437130/Adv3DPrint.png",
+    "img": "media/gregtech/Adv3DPrint.png",
     "mod": "impact"
   },
   {
@@ -464,7 +464,7 @@
     "slug": "electricairfilter",
     "tier": "hv",
     "article": "wiki/machines/electricairfilter.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873326082449448/AIR_FILTER.png",
+    "img": "media/gregtech/AIR_FILTER.png",
     "mod": "impact"
   },
   {
@@ -473,7 +473,7 @@
     "slug": "tinywormhole",
     "tier": "uv",
     "article": "wiki/machines/tinywormhole.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873328078938122/TINI_WORMHOLE.png",
+    "img": "media/gregtech/TINI_WORMHOLE.png",
     "mod": "impact"
   },
   {
@@ -482,7 +482,7 @@
     "slug": "flotationunit",
     "tier": "ev",
     "article": "wiki/machines/flotationunit.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873327336542208/FLOTATION_UNIT.png",
+    "img": "media/gregtech/FLOTATION_UNIT.png",
     "mod": "impact"
   },
   {
@@ -491,7 +491,7 @@
     "slug": "multiblockelectrolyzer",
     "tier": "ev",
     "article": "wiki/machines/multiblockelectrolyzer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873326627684413/ELECTROLYZER.png",
+    "img": "media/gregtech/ELECTROLYZER.png",
     "mod": "impact"
   },
   {
@@ -500,7 +500,7 @@
     "slug": "multiblockcentrifuge",
     "tier": "ev",
     "article": "wiki/machines/multiblockcentrifuge.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873326405402654/CENTRIFUGE.png",
+    "img": "media/gregtech/CENTRIFUGE.png",
     "mod": "impact"
   },
   {
@@ -509,7 +509,7 @@
     "slug": "multiblockfarm",
     "tier": "mv",
     "article": "wiki/machines/multiblockfarm.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873327101653073/FARM.png",
+    "img": "media/gregtech/FARM.png",
     "mod": "impact"
   },
   {
@@ -518,7 +518,7 @@
     "slug": "sofg",
     "tier": "ev",
     "article": "wiki/machines/sofg.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939876293179232336/SOFC.png",
+    "img": "media/gregtech/SOFC.png",
     "mod": "impact"
   },
   {
@@ -527,7 +527,7 @@
     "slug": "hugesteamturbine",
     "tier": "iv",
     "article": "wiki/machines/hugesteamturbine.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873327797927957/HUGE_TURBINE.png",
+    "img": "media/gregtech/HUGE_TURBINE.png",
     "mod": "impact"
   },
   {
@@ -536,7 +536,7 @@
     "slug": "heavymetalcyclone",
     "tier": "luv",
     "article": "wiki/machines/heavymetalcyclone.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873327567224912/HMC.png",
+    "img": "media/gregtech/HMC.png",
     "mod": "impact"
   },
   {
@@ -545,7 +545,7 @@
     "slug": "spaceelevator",
     "tier": "ev",
     "article": "wiki/machines/spaceelevator.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939873326879371364/ELEVATOR.png",
+    "img": "media/gregtech/ELEVATOR.png",
     "mod": "impact"
   },
   {
@@ -554,7 +554,7 @@
     "slug": "singletank",
     "tier": "hv",
     "article": "wiki/machines/singletank.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939742067645632522/SINGLE_TANK.png",
+    "img": "media/gregtech/SINGLE_TANK.png",
     "mod": "impact"
   },
   {
@@ -563,7 +563,7 @@
     "slug": "multitank",
     "tier": "hv",
     "article": "wiki/machines/multitank.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939737636766113832/MULTI_TANK.png",
+    "img": "media/gregtech/MULTI_TANK.png",
     "mod": "impact"
   },
   {
@@ -572,7 +572,7 @@
     "slug": "liquidnqgen",
     "tier": "luv",
     "article": "wiki/machines/liquidnqgen.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939742068505477201/NQ_LIQUID.png",
+    "img": "media/gregtech/NQ_LIQUID.png",
     "mod": "impact"
   },
   {
@@ -581,7 +581,7 @@
     "slug": "liquidenrnqgen",
     "tier": "zpm",
     "article": "wiki/machines/liquidenrnqgen.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939742067893088256/NQ_ENRICH.png",
+    "img": "media/gregtech/NQ_ENRICH.png",
     "mod": "impact"
   },
   {
@@ -590,7 +590,7 @@
     "slug": "hypergen",
     "tier": "uv",
     "article": "wiki/machines/hypergen.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939742068278976522/NQ_HYPER.png",
+    "img": "media/gregtech/NQ_HYPER.png",
     "mod": "impact"
   },
   {
@@ -599,7 +599,7 @@
     "slug": "industrialpulverizer",
     "tier": "mv",
     "article": "wiki/machines/industrialpulverizer.md",
-    "img": "https://cdn.discordapp.com/attachments/916393114166525974/939221716540989510/IndustrialPulverizer.png",
+    "img": "media/gregtech/IndustrialPulverizer.png",
     "mod": "impact"
   }
 ]

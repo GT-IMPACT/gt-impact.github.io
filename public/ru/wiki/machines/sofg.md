@@ -1,6 +1,6 @@
 ### SOLID-OXIDE GENERATOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939876293179232336/SOFC.png)
+![LOGO](media/gregtech/SOFC.png)
 
 ##### Описание
 

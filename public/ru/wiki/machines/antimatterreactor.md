@@ -1,6 +1,6 @@
 ### ANTIMATTER REACTOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916636161731100732/ANTIMATT.png)
+![LOGO](media/gregtech/ANTIMATT.png)
 
 ##### Описание
 

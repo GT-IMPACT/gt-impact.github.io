@@ -1,6 +1,6 @@
 ### TESSERACT
 
-![LOGO](https://media.discordapp.net/attachments/916393114166525974/916636161945002025/TESSERACT.png)
+![LOGO](media/gregtech/TESSERACT.png)
 
 ##### Описание
 
@@ -14,5 +14,5 @@
 
 ##### Особенности структуры
 
-Для питания необходимо 2 Energy hatch! 
+Для питания необходимо 2 Energy hatch!
 

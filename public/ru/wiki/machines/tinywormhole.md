@@ -1,6 +1,6 @@
 ### TINY WORMHOLE
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873328078938122/TINI_WORMHOLE.png)
+![LOGO](media/gregtech/TINI_WORMHOLE.png)
 
 ##### Описание
 

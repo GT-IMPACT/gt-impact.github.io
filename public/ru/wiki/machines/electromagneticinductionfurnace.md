@@ -1,6 +1,6 @@
 ### ELECTROMAGNETIC INDUCTION FURNACE
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916393262401601536/EIF.png)
+![LOGO](media/gregtech/EIF.png)
 
 ##### Описание
 

@@ -1,6 +1,6 @@
 ### ELECTRIC IMPLOSION COMPRESSOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939222212240637952/EIMPLOSpng.png)
+![LOGO](media/gregtech/EIMPLOSpng.png)
 
 ##### Описание
 

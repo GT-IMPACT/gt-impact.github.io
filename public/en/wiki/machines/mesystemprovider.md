@@ -1,6 +1,6 @@
 ### ME SYSTEM PROVIDER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916672070048428102/MESP.png)
+![LOGO](media/gregtech/MESP.png)
 
 ##### Description
 

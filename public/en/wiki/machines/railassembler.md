@@ -1,6 +1,6 @@
 ### RAIL ASSEMBLER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/RailAssembler.png)
+![LOGO](media/gregtech/RailAssembler.png)
 
 ##### Description
 

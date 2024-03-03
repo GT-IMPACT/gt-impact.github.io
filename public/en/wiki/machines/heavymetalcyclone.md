@@ -1,6 +1,6 @@
 ### HEAVY METAL CYCLONE
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873327567224912/HMC.png)
+![LOGO](media/gregtech/HMC.png)
 
 ##### Description
 

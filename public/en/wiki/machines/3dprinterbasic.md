@@ -1,6 +1,6 @@
 ### BASIC 3D PRINTER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939221716754894929/3DPrint.png)
+![LOGO](media/gregtech/3DPrint.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### MULTIBLOCK STRUCTURE HOLOGRAM PROJECTOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/972775675788423168/item_18525.png)
+![LOGO](media/gregtech/item_18525.png)
 
 ##### Описание
 

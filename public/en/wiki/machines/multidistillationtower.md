@@ -1,6 +1,6 @@
 ### MULTI DISTILLATION TOWER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916408486332608592/MDT.png)
+![LOGO](media/gregtech/MDT.png)
 
 ##### Description
 

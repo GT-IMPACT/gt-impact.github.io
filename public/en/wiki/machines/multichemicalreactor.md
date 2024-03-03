@@ -1,6 +1,6 @@
 ### MULTI CHEMICAL REACTOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916408486676537394/MLCR.png)
+![LOGO](media/gregtech/MLCR.png)
 
 ##### Description
 

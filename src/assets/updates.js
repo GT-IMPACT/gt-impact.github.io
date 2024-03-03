@@ -72,18 +72,18 @@ const updateList = [
 ]
 
 const homePic = [
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/1.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/2.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/3.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/4.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/5.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/6.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/7.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/8.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/9.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/10.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/11.png'},
-  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/12.png'},
+  {src: 'media/bg/1.png'},
+  {src: 'media/bg/2.png'},
+  {src: 'media/bg/3.png'},
+  {src: 'media/bg/4.png'},
+  {src: 'media/bg/5.png'},
+  {src: 'media/bg/6.png'},
+  {src: 'media/bg/7.png'},
+  {src: 'media/bg/8.png'},
+  {src: 'media/bg/9.png'},
+  {src: 'media/bg/10.png'},
+  {src: 'media/bg/11.png'},
+  {src: 'media/bg/12.png'},
 ]
 
 export default {

@@ -1,6 +1,6 @@
 ### LIQUID ENRICHED NAQUADAH GENERATOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939742067893088256/NQ_ENRICH.png)
+![LOGO](media/gregtech/NQ_ENRICH.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### NUCLEAR REACTOR
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearReactor.png)
+![LOGO](media/gregtech/NuclearReactor.png)
 
 ##### Описание
 
@@ -35,7 +35,7 @@
 
 Управление реактором:
 
-![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearGui.png)
+![SMALL](media/gregtech/NuclearGui.png)
 
 ##### Управление стержнями
 
@@ -50,5 +50,5 @@
 
 Управление стержнем:
 
-![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearHatch.png)
+![SMALL](media/gregtech/NuclearHatch.png)
 

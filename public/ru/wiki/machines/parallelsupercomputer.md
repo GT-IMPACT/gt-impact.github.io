@@ -1,6 +1,6 @@
 ### PARALLEL SUPER COMPUTER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParComputer.png)
+![LOGO](media/gregtech/ParComputer.png)
 
 ##### Описание
 
@@ -43,13 +43,13 @@ Max PP - общее количество PP от параллельных про
 
 Установка частоты подключения компьютера к Communication Tower:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerComp.gif)
+![BIG](media/gregtech/connectTowerComp.gif)
 
 Parallel Processors в Computer Rack:
 
-![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ComputerRackGUI.png)
+![SMALL](media/gregtech/ComputerRackGUI.png)
 
 Настройка передачи PP от компьютера к машине:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectMachineComp.gif)
+![BIG](media/gregtech/connectMachineComp.gif)
 

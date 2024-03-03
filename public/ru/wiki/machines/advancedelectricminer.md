@@ -1,6 +1,6 @@
 ### ADVANCED ELECTRIC MINER
 
-![LOGO](https://media.discordapp.net/attachments/916393114166525974/927967084997144616/ADV_MINER.png)
+![LOGO](media/gregtech/ADV_MINER.png)
 
 ##### Описание
 
@@ -25,7 +25,7 @@
 
 Майнер имеет бонус к добычи. Выполняется дробление вскопанной руды (шанс на дробление 5%).
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png)
+![SMALL](media/gregtech/miner_drill.png)
 
 С помощью Miner Enrichment Unit майнер увеличивает выход руды, а также делает первую переработку этой руды.
 
@@ -41,7 +41,7 @@ Enrichment Unit выполняет рецепты Flotation Unit. Энергия
 
 - Время = не учитывается.
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/927979571993776218/unknown.png)
+![SMALL](media/gregtech/enrich.png)
 
 ##### Важно!
 

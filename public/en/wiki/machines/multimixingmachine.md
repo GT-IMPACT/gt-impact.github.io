@@ -1,6 +1,6 @@
 ### MULTI MIXING MACHINE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMix.png)
+![LOGO](media/gregtech/ParMix.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### FREEZER SOLIDIFIER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFrezSolid.png)
+![LOGO](media/gregtech/ParFrezSolid.png)
 
 ##### Описание
 

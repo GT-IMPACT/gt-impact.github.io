@@ -1,6 +1,6 @@
 ### BASIC ELECTRIC MINER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/927976409127862402/BASIC_MINER.png)
+![LOGO](media/gregtech/BASIC_MINER.png)
 
 ##### Описание
 
@@ -25,7 +25,7 @@
 
 Майнер имеет бонус к добычи. Выполняется дробление вскопанной руды (шанс на дробление 5%).
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png)
+![SMALL](media/gregtech/miner_drill.png)
 
 ##### Важно!
 

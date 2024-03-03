@@ -1,6 +1,6 @@
 ### MULTI SUPPLY PRODUCTION
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParSupply.png)
+![LOGO](media/gregtech/ParSupply.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### PYROLYSE OVEN
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/purolyse.png)
+![LOGO](media/gregtech/purolyse.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### FLOTATION UNIT
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873327336542208/FLOTATION_UNIT.png)
+![LOGO](media/gregtech/FLOTATION_UNIT.png)
 
 ##### Description
 

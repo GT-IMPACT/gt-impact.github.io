@@ -1,6 +1,6 @@
 ### MULTI BREWMENTER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParBrew.png)
+![LOGO](media/gregtech/ParBrew.png)
 
 ##### Описание
 

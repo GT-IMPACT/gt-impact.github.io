@@ -1,6 +1,6 @@
 ### Ore Generation
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/928074818505560064/111.png)
+![LOGO](media/gregtech/111.png)
 
 ##### Description
 
@@ -15,7 +15,7 @@ To get the first resources, you need a tool - Forge Hammer (with a special mode 
 The mode is activated by the Right Mouse Click on the ground.
 With this mode, you can mine any rock and you will get special stones (see picture):
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/946019723617914910/unknown.png)
+![SMALL](media/gregtech/hammer.png)
 
 There are 3 types of stones:
 
@@ -25,7 +25,7 @@ There are 3 types of stones:
 
 After extraction of the stones, they are processed in a special machine - [The Mill](#/machines#themill)
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/946022528411893770/unknown.png)
+![SMALL](media/gregtech/mill_gui.png)
 
 ##### Principle of ore generation
 
@@ -37,7 +37,7 @@ There are two layers to the game:
 
 In the picture, layer #1 is selected, you can see that the vein consists of 16 cubes (chunks).
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928061128100184124/unknown.png)
+![SMALL](media/gregtech/ore_layer_0.png)
 
 Each chunk generates a certain amount of ore, depending on the level of the layer and type of vein.
 
@@ -70,4 +70,4 @@ To mine the ore, you will need miners:
 - Basic Electric Miner: able to mine ore in all layers, has a small bonus when digging ([check](#/machines#basicelectricminer))
 - Advanced Electric Miner: able to mine ore in all layers, has a significant digging bonus, and also contains a flotation module ([check](#/machines#advancedelectricminer))
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928070934580068462/unknown.png)
+![SMALL](media/gregtech/miners.png)

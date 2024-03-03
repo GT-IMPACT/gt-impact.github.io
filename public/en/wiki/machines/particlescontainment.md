@@ -1,6 +1,6 @@
 ### MATRIX PARTICLES CONTAINMENT
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916670175670054982/MATRIXCONTAINER.png)
+![LOGO](media/gregtech/MATRIXCONTAINER.png)
 
 ##### Description
 

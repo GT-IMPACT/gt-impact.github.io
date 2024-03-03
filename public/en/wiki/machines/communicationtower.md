@@ -1,6 +1,6 @@
 ### COMMUNICATION TOWER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939743605566873600/COM_TOWER.png)
+![LOGO](media/gregtech/COM_TOWER.png)
 
 ##### Description
 
@@ -26,4 +26,4 @@ The tower does not require electrical power.
 
 Setting the frequency for connecting the Communication Tower to the satellite:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerSattelite.gif)
+![BIG](media/gregtech/connectTowerSattelite.gif)

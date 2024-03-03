@@ -1,6 +1,6 @@
 ### SAW MILL
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/sawmill.png)
+![LOGO](media/gregtech/sawmill.png)
 
 ##### Описание
 

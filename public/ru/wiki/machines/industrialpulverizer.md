@@ -1,6 +1,6 @@
 ### INDUSTRIAL PULVERIZER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939221716540989510/IndustrialPulverizer.png)
+![LOGO](media/gregtech/IndustrialPulverizer.png)
 
 ##### Описание
 

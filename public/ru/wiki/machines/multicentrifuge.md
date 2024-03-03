@@ -1,6 +1,6 @@
 ### MULTI CENTRIFUGE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParCentrifuge.png)
+![LOGO](media/gregtech/ParCentrifuge.png)
 
 ##### Описание
 

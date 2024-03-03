@@ -1,6 +1,6 @@
 ### COAL MINER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/927967085383016509/COAL_MINER.png)
+![LOGO](media/gregtech/COAL_MINER.png)
 
 ##### Description
 
@@ -23,7 +23,7 @@ The Drill Hatch houses the Drill Head, a headband that has a strength, with the 
 
 The miner has no bonuses for mining. Can only dig 0 layer.
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/927973613922037770/unknown.png)
+![SMALL](media/gregtech/miner_drill.png)
 
 ##### Important!
 

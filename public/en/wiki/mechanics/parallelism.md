@@ -1,6 +1,6 @@
 ### Parallelism
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939784614275330088/PARALLELISM.png)
+![LOGO](media/gregtech/PARALLELISM.png)
 
 ##### General
 

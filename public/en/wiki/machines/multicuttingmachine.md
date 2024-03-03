@@ -1,6 +1,6 @@
 ### MULTI CUTTING MACHINE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParCutt.png)
+![LOGO](media/gregtech/ParCutt.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### Рудогенерация
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/928074818505560064/111.png)
+![LOGO](media/gregtech/111.png)
 
 ##### Описание
 
@@ -15,7 +15,7 @@
 Режим включается ПКМ по земле.
 С помощью этого режима, вы можете копать любую породу и вам будут выпадать специальные камешки (см. рис.):
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/946019723617914910/unknown.png)
+![SMALL](media/gregtech/hammer.png)
 
 Существует 3 вида камешков:
 
@@ -25,7 +25,7 @@
 
 После добычи камешков, они обрабатываются в специальной машине - [The Mill](#/machines#themill)
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/946022528411893770/unknown.png)
+![SMALL](media/gregtech/mill_gui.png)
 
 ##### Принцип генерации руды
 
@@ -37,7 +37,7 @@
 
 На рисунке выбран слой #1, видно что жила состоит из 16 кубиков (чанков).
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928061128100184124/unknown.png)
+![SMALL](media/gregtech/ore_layer_0.png)
 
 В каждом чанке в зависимости от уровня слоя и типа жилы, генерируется определенное количество руды.
 
@@ -70,4 +70,4 @@
 - Basic Electric Miner: электрический майнер, способный добывать руду во всех слоях, имеет небольшой бонус при копании ([см. статью на вики](#/machines#basicelectricminer))
 - Advanced Electric Miner: улучшеный электрический майнер, способный добывать руду во всех слоях, имеет значительный бонус при копании, а также содержит модуль флотации ([см. статью на вики](#/machines#advancedelectricminer))
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/928070934580068462/unknown.png)
+![SMALL](media/gregtech/miners.png)

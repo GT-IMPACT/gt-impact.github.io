@@ -1,6 +1,6 @@
 ### LIQUID NAQUADAH GENERATOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939742068505477201/NQ_LIQUID.png)
+![LOGO](media/gregtech/NQ_LIQUID.png)
 
 ##### Description
 

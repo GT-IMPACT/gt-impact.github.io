@@ -1,6 +1,6 @@
 ### MULTI-TANK
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939737636766113832/MULTI_TANK.png)
+![LOGO](media/gregtech/MULTI_TANK.png)
 
 ##### Описание
 

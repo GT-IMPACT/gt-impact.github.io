@@ -1,6 +1,6 @@
 ### MULTI ASSEMBLING MACHINE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParAssembler.png)
+![LOGO](media/gregtech/ParAssembler.png)
 
 ##### Description
 

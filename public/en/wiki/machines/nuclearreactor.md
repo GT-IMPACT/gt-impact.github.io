@@ -1,6 +1,6 @@
 ### NUCLEAR REACTOR
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearReactor.png)
+![LOGO](media/gregtech/NuclearReactor.png)
 
 ##### Description
 
@@ -34,7 +34,7 @@ This mode allows the rapid decay of nuclear fuel. Fuel decay occurs 5 times fast
 
 Reactor control:
 
-![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearGui.png)
+![SMALL](media/gregtech/NuclearGui.png)
 
 ##### Rod control
 
@@ -48,4 +48,4 @@ Reactor control:
 
 Rod control:
 
-![SMALL](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/NuclearHatch.png)
+![SMALL](media/gregtech/NuclearHatch.png)

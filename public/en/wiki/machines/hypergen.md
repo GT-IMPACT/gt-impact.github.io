@@ -1,6 +1,6 @@
 ### HYPER GENERATOR
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939742068278976522/NQ_HYPER.png)
+![LOGO](media/gregtech/NQ_HYPER.png)
 
 ##### Description
 

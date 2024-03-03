@@ -1,6 +1,6 @@
 ### AEROSTATE PLATFORM
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/928212885841264650/AEROSTATE.png)
+![LOGO](media/gregtech/AEROSTATE.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### COMMUNICATION TOWER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939743605566873600/COM_TOWER.png)
+![LOGO](media/gregtech/COM_TOWER.png)
 
 ##### Описание
 
@@ -26,4 +26,4 @@ Communication Receiver используется для настройки сое
 
 Установка частоты для соединения коммуникационной вышки со спутником:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectTowerSattelite.gif)
+![BIG](media/gregtech/connectTowerSattelite.gif)

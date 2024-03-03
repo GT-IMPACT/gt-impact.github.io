@@ -1,6 +1,6 @@
 ### PARAMETRIC DIFFUSER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916670175946870784/MATRIXDIFFUSER.png)
+![LOGO](media/gregtech/MATRIXDIFFUSER.png)
 
 ##### Описание
 
@@ -10,9 +10,9 @@
 
 В Input Bus рядом с контроллером необходимо положить любой совершенный (Exquisite) камень.
 
-Сила луча зависит от уровня Energy hatch: (tier - 3) * random(200). 
+Сила луча зависит от уровня Energy hatch: (tier - 3) * random(200).
 
-Чем выше сила луча, тем быстрее накапливаются частицы в следующей машине - Matrix Particles Stabilizer. 
+Чем выше сила луча, тем быстрее накапливаются частицы в следующей машине - Matrix Particles Stabilizer.
 
 Расстояние до Matrix Particles Stabilizer не должно превышать 30 блоков.
 
@@ -21,5 +21,5 @@
 
 ##### Особенности структуры
 
-Цвет I-Glass в структуре не имеет значения. 
+Цвет I-Glass в структуре не имеет значения.
 

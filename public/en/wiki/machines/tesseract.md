@@ -1,6 +1,6 @@
 ### TESSERACT
 
-![LOGO](https://media.discordapp.net/attachments/916393114166525974/916636161945002025/TESSERACT.png)
+![LOGO](media/gregtech/TESSERACT.png)
 
 ##### Description
 

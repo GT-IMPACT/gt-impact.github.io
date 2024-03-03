@@ -1,6 +1,6 @@
 ### SPACE SATELLITE
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/SpaceSatellite.png)
+![LOGO](media/gregtech/SpaceSatellite.png)
 
 ##### Описание
 
@@ -24,4 +24,4 @@ Communication Transmitter используется для настройки ч�
 
 Установка частоты для космического спутника:
 
-![BIG](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/connectSattelite.gif)
+![BIG](media/gregtech/connectSattelite.gif)

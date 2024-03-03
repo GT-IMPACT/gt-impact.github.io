@@ -1,6 +1,6 @@
 ### MULTIBLOCK CENTRIFUGE
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873326405402654/CENTRIFUGE.png)
+![LOGO](media/gregtech/CENTRIFUGE.png)
 
 ##### Description
 

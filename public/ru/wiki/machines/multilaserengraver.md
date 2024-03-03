@@ -1,6 +1,6 @@
 ### MULTI LASER ENGRAVER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParLaser.png)
+![LOGO](media/gregtech/ParLaser.png)
 
 ##### Описание
 

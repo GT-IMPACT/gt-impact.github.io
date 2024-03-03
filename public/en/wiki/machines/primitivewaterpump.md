@@ -1,6 +1,6 @@
 ### PRIMITIVE WATER PUMP
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/primwaterpump.png)
+![LOGO](media/gregtech/primwaterpump.png)
 
 ##### Description
 

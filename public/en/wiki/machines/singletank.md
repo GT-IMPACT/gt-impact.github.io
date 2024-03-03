@@ -1,6 +1,6 @@
 ### SINGLE-TANK
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939742067645632522/SINGLE_TANK.png)
+![LOGO](media/gregtech/SINGLE_TANK.png)
 
 ##### Description
 

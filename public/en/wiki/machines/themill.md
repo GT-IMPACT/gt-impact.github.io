@@ -1,6 +1,6 @@
 ### THE MILL
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/927967084292485120/THE_MILL.png)
+![LOGO](media/gregtech/THE_MILL.png)
 
 ##### Description
 

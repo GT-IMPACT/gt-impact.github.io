@@ -1,6 +1,6 @@
 ### HUGE STEAM TURBINE
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873327797927957/HUGE_TURBINE.png)
+![LOGO](media/gregtech/HUGE_TURBINE.png)
 
 ##### Описание
 

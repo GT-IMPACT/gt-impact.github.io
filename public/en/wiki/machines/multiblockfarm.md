@@ -1,6 +1,6 @@
 ### MULTIBLOCK FARM
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/939873327101653073/FARM.png)
+![LOGO](media/gregtech/FARM.png)
 
 ##### Description
 

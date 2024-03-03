@@ -1,6 +1,6 @@
 ### MULTI ELECTROLYZER
 
-![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParElectr.png)
+![LOGO](media/gregtech/ParElectr.png)
 
 ##### Description
 

@@ -1,6 +1,6 @@
 ### QUANTUM COMPUTER
 
-![LOGO](https://cdn.discordapp.com/attachments/916393114166525974/916660851237322782/QCOMPUTER.png)
+![LOGO](media/gregtech/QCOMPUTER.png)
 
 ##### Описание
 
@@ -41,4 +41,4 @@ Uncertainty Resolver X решает неопределенность автом�
 
 На рис. ниже выделены области воздействия двух фокусных точек:
 
-![SMALL](https://cdn.discordapp.com/attachments/916393114166525974/924258464195289138/Uncertain.png)
+![SMALL](media/gregtech/Uncertain.png)
